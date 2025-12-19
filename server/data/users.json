@@ -1,1 +1,22 @@
-
+[
+  {
+    "id": "user-001",
+    "username": "admin",
+    "email": "admin@aiharmwatch.org",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeG3vJ.8F.6ZjJ7Z4Vh7qLQ3b5t6Y2z2K",
+    "role": "admin",
+    "contributionScore": 100,
+    "createdAt": "2024-01-01T10:00:00Z",
+    "updatedAt": "2024-01-01T10:00:00Z"
+  },
+  {
+    "id": "user-002",
+    "username": "researcher",
+    "email": "research@aiharmwatch.org",
+    "passwordHash": "$2a$10$X9qo8uLOickgx2ZMRZoMyeG3vJ.8F.6ZjJ7Z4Vh7qLQ3b5t6Y2z2K",
+    "role": "contributor",
+    "contributionScore": 50,
+    "createdAt": "2024-01-05T14:30:00Z",
+    "updatedAt": "2024-01-05T14:30:00Z"
+  }
+]
