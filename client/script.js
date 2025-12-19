@@ -1,5 +1,5 @@
 // 🔥 BACKEND URL (FIXED)
-const API_BASE_URL = "https://full-stack-render-app-o6yd.onrender.com";
+const API_BASE_URL = "https://full-stack-render-app-o6yd.onrender.com/api/";
 const PAGE_SIZE = 9;
 
 let currentState = {
